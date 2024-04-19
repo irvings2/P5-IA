@@ -1,2 +1,4 @@
 # P5-IA
-Ejercicio lab 5
+Ejercicio lab 5 </br>
+Integrantes: </br>
+Guerrero Sanchez Irvin </br>
